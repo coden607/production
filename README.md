@@ -32,7 +32,7 @@ Every claim on this board was verified by actually running the check (HTTP statu
 | All-phase-electric | node | vercel | queued | — | 2026-10-05T06:27:25Z |
 | ai-vocals-studio-1 | python | — | duplicate | — | 2026-10-05T06:27:25Z |
 | frp-freedom | python | vps-docker | queued | — | 2026-10-05T06:27:25Z |
-| CannaIntel | node | vercel | queued | — | 2026-10-05T06:27:25Z |
+| CannaIntel | node | vercel | ✅ live | https://cannaintel.vercel.app | 2026-10-05 |
 | fanfoundry | static | github-pages | queued | https://coden607.github.io/fanfoundry/ | 2026-10-05T06:27:25Z |
 | chatty-mirror | python | — | duplicate | — | 2026-10-05T06:27:25Z |
 | cannai | None | — | duplicate | — | 2026-10-05T06:27:25Z |

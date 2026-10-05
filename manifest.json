@@ -159,10 +159,11 @@
       "name": "CannaIntel",
       "class": "node",
       "target": "vercel",
-      "status": "queued",
-      "url": null,
-      "last_verified": "2026-10-05T06:27:25Z",
-      "note": "NOT static \u2014 Vite/TS app (root index.html is a 440-byte build template); needs build. Private."
+      "status": "live",
+      "url": "https://cannaintel.vercel.app",
+      "last_verified": "2026-10-05T15:12:00+08:00",
+      "note": "NOT static \u2014 Vite/TS app (root index.html is a 440-byte build template); needs build. Private.",
+      "notes": "Vite/React/TS; 2/2 tests pass; tsc+vite build green; git-linked auto-deploy on main"
     },
     {
       "name": "fanfoundry",
