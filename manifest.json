@@ -1,0 +1,276 @@
+{
+  "generated_at": "2026-10-05T06:27:25Z",
+  "account": "coden607",
+  "repos": [
+    {
+      "name": "pwa4",
+      "class": "node",
+      "target": "vercel",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Newest of PWA/airbear family; ride-booking app (private)"
+    },
+    {
+      "name": "rightprice",
+      "class": "node",
+      "target": "vercel",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "npm-workspaces monorepo: web+core+connectors+mcp-server (private)"
+    },
+    {
+      "name": "continuity-os",
+      "class": "lib",
+      "target": null,
+      "status": "lib",
+      "url": "https://github.com/coden607/continuity-os",
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Continuity OS core repo; live-via-git, not deployed"
+    },
+    {
+      "name": "ai-vocals-studio",
+      "class": "python",
+      "target": "vps-docker",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Voice-cloning studio, Dockerfile present; newest of family"
+    },
+    {
+      "name": "narcoguard-pwa",
+      "class": "node",
+      "target": "vercel",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Newest Narcoguard (Next.js)"
+    },
+    {
+      "name": "skills",
+      "class": "lib",
+      "target": null,
+      "status": "lib",
+      "url": "https://github.com/coden607/skills",
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Skill collection; live-via-git"
+    },
+    {
+      "name": "ocs",
+      "class": "lib",
+      "target": null,
+      "status": "lib",
+      "url": "https://github.com/coden607/ocs",
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "OpenClaw setup scripts; live-via-git"
+    },
+    {
+      "name": "chatty",
+      "class": "python",
+      "target": "vps-docker",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Newest of chatty family"
+    },
+    {
+      "name": "Narcoguard1",
+      "class": "node",
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "narcoguard-pwa is newer (2026-10-05 vs 2026-10-04)"
+    },
+    {
+      "name": "Narcoguard",
+      "class": "node",
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "README-only; narcoguard-pwa is newer"
+    },
+    {
+      "name": "phoneway",
+      "class": "static",
+      "target": "github-pages",
+      "status": "queued",
+      "url": "https://coden607.github.io/phoneway/",
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Pages source=workflow ENABLED; deploy BLOCKED: gh token lacks 'workflow' scope (push rejected). URL currently 404."
+    },
+    {
+      "name": "airbearme",
+      "class": "node",
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Same codebase family as pwa4 (identical docs/files); pwa4 is newer"
+    },
+    {
+      "name": "nextlaw607",
+      "class": "node",
+      "target": "vercel",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Legal research app (Vite)"
+    },
+    {
+      "name": "continuityos",
+      "class": "container",
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Superseded by continuity-os"
+    },
+    {
+      "name": "All-phase-electric",
+      "class": "node",
+      "target": "vercel",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "README spec only \u2014 app not built yet (planned Next.js)"
+    },
+    {
+      "name": "ai-vocals-studio-1",
+      "class": "python",
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Duplicate of ai-vocals-studio"
+    },
+    {
+      "name": "frp-freedom",
+      "class": "python",
+      "target": "vps-docker",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "FRP bypass toolkit; needs VPS"
+    },
+    {
+      "name": "CannaIntel",
+      "class": "node",
+      "target": "vercel",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "NOT static \u2014 Vite/TS app (root index.html is a 440-byte build template); needs build. Private."
+    },
+    {
+      "name": "fanfoundry",
+      "class": "static",
+      "target": "github-pages",
+      "status": "queued",
+      "url": "https://coden607.github.io/fanfoundry/",
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "BLOCKED: private repo on free plan (Pages requires public) + workflow scope. URL currently 404."
+    },
+    {
+      "name": "chatty-mirror",
+      "class": "python",
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "chatty is newer (2026-10-05 vs 2026-08-12)"
+    },
+    {
+      "name": "cannai",
+      "class": null,
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Empty repo; CannaIntel family"
+    },
+    {
+      "name": "common-ground-ai",
+      "class": "node",
+      "target": "vercel",
+      "status": "queued",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Next.js app (private)"
+    },
+    {
+      "name": "project",
+      "class": null,
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Empty repo"
+    },
+    {
+      "name": "Airbearpwa2",
+      "class": null,
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Empty repo; PWA family"
+    },
+    {
+      "name": "7cmd",
+      "class": null,
+      "target": null,
+      "status": "lib",
+      "url": "https://github.com/coden607/7cmd",
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Empty stub; grouped as lib per mission spec"
+    },
+    {
+      "name": "pwa3",
+      "class": null,
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Empty repo; PWA family"
+    },
+    {
+      "name": "pwaoriginal",
+      "class": null,
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Empty repo; PWA family"
+    },
+    {
+      "name": "PWA5",
+      "class": null,
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Empty repo; PWA family"
+    },
+    {
+      "name": "pwapro",
+      "class": null,
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "Empty repo; PWA family"
+    },
+    {
+      "name": "chatty-1",
+      "class": "python",
+      "target": null,
+      "status": "duplicate",
+      "url": null,
+      "last_verified": "2026-10-05T06:27:25Z",
+      "note": "chatty is newer (2026-10-05 vs 2026-04-14)"
+    }
+  ]
+}
