@@ -278,6 +278,15 @@
       "url": null,
       "last_verified": "2026-10-05T06:27:25Z",
       "note": "chatty is newer (2026-10-05 vs 2026-04-14)"
+    },
+    {
+      "name": "seedbank-index",
+      "class": "data",
+      "target": "github",
+      "status": "live",
+      "url": "https://github.com/coden607/seedbank-index",
+      "last_verified": "2026-10-05T15:55:00+08:00",
+      "notes": "NEW repo (Mission 3 seed): open seed bank/breeder directory, 24-entry seed dataset v0.1; feeds CannaIntel genetics module"
     }
   ]
 }
