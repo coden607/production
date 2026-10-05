@@ -19,7 +19,7 @@ Every claim on this board was verified by actually running the check (HTTP statu
 | rightprice | node | vercel | ✅ live | https://rightprice-liart.vercel.app | 2026-10-05 |
 | continuity-os | lib | — | lib | https://github.com/coden607/continuity-os | 2026-10-05T06:27:25Z |
 | ai-vocals-studio | python | vps-docker | queued | — | 2026-10-05T06:27:25Z |
-| narcoguard-pwa | node | vercel | queued | — | 2026-10-05T06:27:25Z |
+| narcoguard-pwa | node | vercel | ✅ live | https://narcoguard-pwa.vercel.app | 2026-10-05 |
 | skills | lib | — | lib | https://github.com/coden607/skills | 2026-10-05T06:27:25Z |
 | ocs | lib | — | lib | https://github.com/coden607/ocs | 2026-10-05T06:27:25Z |
 | chatty | python | vps-docker | queued | — | 2026-10-05T06:27:25Z |
@@ -27,7 +27,7 @@ Every claim on this board was verified by actually running the check (HTTP statu
 | Narcoguard | node | — | duplicate | — | 2026-10-05T06:27:25Z |
 | phoneway | static | github-pages | queued | https://coden607.github.io/phoneway/ | 2026-10-05T06:27:25Z |
 | airbearme | node | vercel | ✅ live | https://chatty-nu-one.vercel.app | 2026-10-05 |
-| nextlaw607 | node | vercel | queued | — | 2026-10-05T06:27:25Z |
+| nextlaw607 | node | vercel | ✅ live | https://nextlaw607.vercel.app | 2026-10-05 |
 | continuityos | container | — | duplicate | — | 2026-10-05T06:27:25Z |
 | All-phase-electric | node | vercel | queued | — | 2026-10-05T06:27:25Z |
 | ai-vocals-studio-1 | python | — | duplicate | — | 2026-10-05T06:27:25Z |
@@ -36,7 +36,7 @@ Every claim on this board was verified by actually running the check (HTTP statu
 | fanfoundry | static | github-pages | queued | https://coden607.github.io/fanfoundry/ | 2026-10-05T06:27:25Z |
 | chatty-mirror | python | — | duplicate | — | 2026-10-05T06:27:25Z |
 | cannai | None | — | duplicate | — | 2026-10-05T06:27:25Z |
-| common-ground-ai | node | vercel | queued | — | 2026-10-05T06:27:25Z |
+| common-ground-ai | node | vercel | ✅ live | https://common-ground-ai.vercel.app | 2026-10-05 |
 | project | None | — | duplicate | — | 2026-10-05T06:27:25Z |
 | Airbearpwa2 | None | — | duplicate | — | 2026-10-05T06:27:25Z |
 | 7cmd | None | — | lib | https://github.com/coden607/7cmd | 2026-10-05T06:27:25Z |

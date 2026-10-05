@@ -44,10 +44,11 @@
       "name": "narcoguard-pwa",
       "class": "node",
       "target": "vercel",
-      "status": "queued",
-      "url": null,
-      "last_verified": "2026-10-05T06:27:25Z",
-      "note": "Newest Narcoguard (Next.js)"
+      "status": "live",
+      "url": "https://narcoguard-pwa.vercel.app",
+      "last_verified": "2026-10-05T15:48:00+08:00",
+      "note": "Newest Narcoguard (Next.js)",
+      "notes": "HTTP 200 + auto-deploy linked @ main (worker A, verified after timeout)"
     },
     {
       "name": "skills",
@@ -117,10 +118,11 @@
       "name": "nextlaw607",
       "class": "node",
       "target": "vercel",
-      "status": "queued",
-      "url": null,
-      "last_verified": "2026-10-05T06:27:25Z",
-      "note": "Legal research app (Vite)"
+      "status": "live",
+      "url": "https://nextlaw607.vercel.app",
+      "last_verified": "2026-10-05T15:48:00+08:00",
+      "note": "Legal research app (Vite)",
+      "notes": "HTTP 200 + linked @ main; package.json re-sort was npm side-effect, harmless; SSR app (title client-side)"
     },
     {
       "name": "continuityos",
@@ -199,10 +201,11 @@
       "name": "common-ground-ai",
       "class": "node",
       "target": "vercel",
-      "status": "queued",
-      "url": null,
-      "last_verified": "2026-10-05T06:27:25Z",
-      "note": "Next.js app (private)"
+      "status": "live",
+      "url": "https://common-ground-ai.vercel.app",
+      "last_verified": "2026-10-05T15:48:00+08:00",
+      "note": "Next.js app (private)",
+      "notes": "HTTP 200 + linked @ main; needed lazy OpenAI client init fix (commit pushed; auto-deploy built it)"
     },
     {
       "name": "project",
