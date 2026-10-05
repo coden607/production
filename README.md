@@ -66,3 +66,4 @@ Every claim on this board was verified by actually running the check (HTTP statu
 1. `gh auth refresh -s workflow` → push `deploy.yml` to phoneway (+ fanfoundry if made public) → watch runs go green → flip board rows to `live`
 2. Decide fanfoundry visibility (public ↔ Pages vs keep private ↔ Vercel)
 3. Wave 2: queue the 8 node apps to Vercel (`pwa4`, `rightprice`, `narcoguard-pwa`, `nextlaw607`, `common-ground-ai`, `CannaIntel`, `All-phase-electric` once built) and 3 python apps to VPS Docker (`ai-vocals-studio`, `chatty`, `frp-freedom`)
+| seedbank-index | data | github | ✅ live | https://github.com/coden607/seedbank-index | 2026-10-05 |
