@@ -15,8 +15,8 @@ Every claim on this board was verified by actually running the check (HTTP statu
 
 | Repo | Class | Target | Status | Live URL | Verified |
 |------|-------|--------|--------|----------|----------|
-| pwa4 | node | vercel | queued | — | 2026-10-05T06:27:25Z |
-| rightprice | node | vercel | queued | — | 2026-10-05T06:27:25Z |
+| pwa4 | node | vercel | ✅ live | https://pwa4-seven.vercel.app | 2026-10-05 |
+| rightprice | node | vercel | ✅ live | https://rightprice-liart.vercel.app | 2026-10-05 |
 | continuity-os | lib | — | lib | https://github.com/coden607/continuity-os | 2026-10-05T06:27:25Z |
 | ai-vocals-studio | python | vps-docker | queued | — | 2026-10-05T06:27:25Z |
 | narcoguard-pwa | node | vercel | queued | — | 2026-10-05T06:27:25Z |
@@ -26,7 +26,7 @@ Every claim on this board was verified by actually running the check (HTTP statu
 | Narcoguard1 | node | — | duplicate | — | 2026-10-05T06:27:25Z |
 | Narcoguard | node | — | duplicate | — | 2026-10-05T06:27:25Z |
 | phoneway | static | github-pages | queued | https://coden607.github.io/phoneway/ | 2026-10-05T06:27:25Z |
-| airbearme | node | — | duplicate | — | 2026-10-05T06:27:25Z |
+| airbearme | node | vercel | ✅ live | https://chatty-nu-one.vercel.app | 2026-10-05 |
 | nextlaw607 | node | vercel | queued | — | 2026-10-05T06:27:25Z |
 | continuityos | container | — | duplicate | — | 2026-10-05T06:27:25Z |
 | All-phase-electric | node | vercel | queued | — | 2026-10-05T06:27:25Z |

@@ -6,19 +6,21 @@
       "name": "pwa4",
       "class": "node",
       "target": "vercel",
-      "status": "queued",
-      "url": null,
-      "last_verified": "2026-10-05T06:27:25Z",
-      "note": "Newest of PWA/airbear family; ride-booking app (private)"
+      "status": "live",
+      "url": "https://pwa4-seven.vercel.app",
+      "last_verified": "2026-10-05T15:30:00+08:00",
+      "note": "Newest of PWA/airbear family; ride-booking app (private)",
+      "notes": "AirBear variant; reclaimed existing project from stale external link; private repo -> public URL (owner-approved)"
     },
     {
       "name": "rightprice",
       "class": "node",
       "target": "vercel",
-      "status": "queued",
-      "url": null,
-      "last_verified": "2026-10-05T06:27:25Z",
-      "note": "npm-workspaces monorepo: web+core+connectors+mcp-server (private)"
+      "status": "live",
+      "url": "https://rightprice-liart.vercel.app",
+      "last_verified": "2026-10-05T15:30:00+08:00",
+      "note": "npm-workspaces monorepo: web+core+connectors+mcp-server (private)",
+      "notes": "Next.js; routed into existing pre-configured project (14 envs incl Supabase); private repo -> public URL (owner-approved)"
     },
     {
       "name": "continuity-os",
@@ -104,11 +106,12 @@
     {
       "name": "airbearme",
       "class": "node",
-      "target": null,
-      "status": "duplicate",
-      "url": null,
-      "last_verified": "2026-10-05T06:27:25Z",
-      "note": "Same codebase family as pwa4 (identical docs/files); pwa4 is newer"
+      "target": "vercel",
+      "status": "live",
+      "url": "https://chatty-nu-one.vercel.app",
+      "last_verified": "2026-10-05T15:30:00+08:00",
+      "note": "Same codebase family as pwa4 (identical docs/files); pwa4 is newer",
+      "notes": "AirBear variant (same codebase family as pwa4); routed into existing 'airbear' project holding Stripe/Supabase/SESSION_SECRET envs \u2014 board reclassified from duplicate to live variant"
     },
     {
       "name": "nextlaw607",
