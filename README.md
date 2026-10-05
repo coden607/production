@@ -15,6 +15,7 @@ Every claim on this board was verified by actually running the check (HTTP statu
 
 | Repo | Class | Target | Status | Live URL | Verified |
 |------|-------|--------|--------|----------|----------|
+| [cortese-prospects](https://github.com/coden607/cortese-prospects) | data | github | live | 2026-10-06 | Sales pipeline: 48 verified leads + outreach kit + playbook |
 | pwa4 | node | vercel | ✅ live | https://pwa4-seven.vercel.app | 2026-10-05 |
 | rightprice | node | vercel | ✅ live | https://rightprice-liart.vercel.app | 2026-10-05 |
 | continuity-os | lib | — | lib | https://github.com/coden607/continuity-os | 2026-10-05T06:27:25Z |

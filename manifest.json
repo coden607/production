@@ -287,6 +287,15 @@
       "url": "https://github.com/coden607/seedbank-index",
       "last_verified": "2026-10-05T15:55:00+08:00",
       "notes": "NEW repo (Mission 3 seed): open seed bank/breeder directory, 24-entry seed dataset v0.1; feeds CannaIntel genetics module"
+    },
+    {
+      "name": "cortese-prospects",
+      "class": "data",
+      "target": "github",
+      "status": "live",
+      "url": "https://github.com/coden607/cortese-prospects",
+      "last_verified": "2026-10-06T15:55:00+08:00",
+      "note": "Sales pipeline: 48 verified restaurant leads + outreach kit + replication playbook"
     }
   ]
 }
