@@ -1,14 +1,14 @@
 # coden607 production board
 
-Generated: 2026-10-05T06:27:25Z · Account: **coden607** · 30 repos
+Generated: 2026-10-05T06:27:25Z · Account: **coden607** · 32 repos
 
 Every claim on this board was verified by actually running the check (HTTP status, workflow conclusion, repo contents) at `last_verified` time.
 
 ## Status counts
 
-- **live**: 0
-- **queued**: 12
-- **duplicate**: 14
+- **live**: 9
+- **queued**: 6
+- **duplicate**: 13
 - **lib**: 4
 
 ## Status table
@@ -46,6 +46,7 @@ Every claim on this board was verified by actually running the check (HTTP statu
 | PWA5 | None | — | duplicate | — | 2026-10-05T06:27:25Z |
 | pwapro | None | — | duplicate | — | 2026-10-05T06:27:25Z |
 | chatty-1 | python | — | duplicate | — | 2026-10-05T06:27:25Z |
+| [seedbank-index](https://github.com/coden607/seedbank-index) | data | github | ✅ live | https://github.com/coden607/seedbank-index | 2026-10-05 |
 
 ## Blockers (Mission 2 Wave 1)
 
@@ -67,4 +68,3 @@ Every claim on this board was verified by actually running the check (HTTP statu
 1. `gh auth refresh -s workflow` → push `deploy.yml` to phoneway (+ fanfoundry if made public) → watch runs go green → flip board rows to `live`
 2. Decide fanfoundry visibility (public ↔ Pages vs keep private ↔ Vercel)
 3. Wave 2: queue the 8 node apps to Vercel (`pwa4`, `rightprice`, `narcoguard-pwa`, `nextlaw607`, `common-ground-ai`, `CannaIntel`, `All-phase-electric` once built) and 3 python apps to VPS Docker (`ai-vocals-studio`, `chatty`, `frp-freedom`)
-| seedbank-index | data | github | ✅ live | https://github.com/coden607/seedbank-index | 2026-10-05 |
